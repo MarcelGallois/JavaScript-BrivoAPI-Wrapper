@@ -1,4 +1,3 @@
-# symmetrical-giggle
 ### BRIVO API WRAPPER
 This is a wrapper for the Brivo API. 
 
