@@ -3,7 +3,7 @@
 This is a wrapper for the Brivo API. 
 
 ### Current Functionality
-Can authenticate, get users, get user groups based on a user id, get groups, assign users to groups, create users, delete users, and update users. 
+Can currently authenticate, get users, get user groups based on a user id, get groups, assign users to groups, create users, delete users, and update users. 
 
 ### Installation
 To install, clone the repository and run `pip install .` from the root directory.
