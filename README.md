@@ -1,6 +1,6 @@
 # symmetrical-giggle
 ### BRIVO API WRAPPER
-This is a wrapper for the Brivo API. It is written in Python 3.6.
+This is a wrapper for the Brivo API. 
 
 ### Current Functionality
 Can authenticate, get users, get user groups based on a user id, get groups, assign users to groups, create users, delete users, and update users. 
