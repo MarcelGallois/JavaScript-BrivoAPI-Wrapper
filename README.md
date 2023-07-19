@@ -4,8 +4,6 @@ This is a wrapper for the Brivo API.
 ### Current Functionality
 Can currently authenticate, get users, get user groups based on a user id, get groups, assign users to groups, create users, delete users, and update users. 
 
-### Installation
-To install, clone the repository and run `pip install .` from the root directory.
 
 ### Usage
 To use the wrapper, import the Brivo class from the apiwrapper module. Instantiate the class with your Brivo username and password. Then, call the desired method. For example:
